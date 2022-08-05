@@ -6,9 +6,9 @@ interface Addition
 }
 class AdditionImpl implements Addition
 {
-	public void add(int a,int b)
+	public void add(int d,int e)
 	{
-		int result=a+b;
+		int result=d+e;
 		System.out.println(result);
 	}
 }
