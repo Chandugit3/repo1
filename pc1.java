@@ -18,7 +18,7 @@ public class pc1 {
 	public static void main(String[] args) {
 	
 		Addition a=new AdditionImpl();
-		a.add(4,5);
+		a.add(3,5);
 	}
 
 }
